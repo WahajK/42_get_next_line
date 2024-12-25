@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 /**
  * @brief Copies up to n - 1 characters from the string src to dest, 
  *        null-terminating the result if n is not 0.
